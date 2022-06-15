@@ -3,12 +3,12 @@ body{
 }
 
 p{
-    font-family: arial;
+    font-family: Arial;
 }
 
 .web-header{
     color: white;
-    font-family: arial;
+    font-family: Arial;
     font-weight: 700;
     font-size: 50px;
     margin:0;
@@ -16,7 +16,7 @@ p{
 
 .web-header-under{
     color: white;
-    font-family: arial;
+    font-family: Arial;
     font-weight: 400;
     font-size: 25px;
     margin:0;
