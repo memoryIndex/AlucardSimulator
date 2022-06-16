@@ -1,0 +1,35 @@
+
+.alu-intro{
+    width: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.pick_alucard_button{
+    background-color: rgb(22, 22, 22);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    border-color: white;
+    border: solid;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+
+.pick_alucard_button:hover{
+    background-color: white;
+    color: black;
+}
+
+.alu-intro{
+    box-shadow: 4px 4px 0px rgba(255,255,255,1);
+    border-radius: 15px;
+}
+
+.hero-pick-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

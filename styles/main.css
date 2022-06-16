@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(22, 22, 22);
+    
+}
+
+.bg-img{
+    position:fixed;
+    
+    z-index:-1;
+}
+
+.web-header{
+    color: white;
+    font-family: arial;
+    font-weight: 700;
+    font-size: 50px;
+    margin:0;
+}
+
+.web-header-under{
+    color: white;
+    font-family: arial;
+    font-weight: 400;
+    font-size: 25px;
+    margin:0;
+}
+
+.header_div{
+    height: 100px;
+    border-bottom:solid;
+    border-bottom-width: 2px;
+    border-bottom-color: white;
+    text-align: center;
+}
+
+
+
+
